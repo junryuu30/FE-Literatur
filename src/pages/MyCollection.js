@@ -72,7 +72,7 @@ const MyCollection = () => {
 
                         </Row>
                     {/* ================ */}
-                        {/* <Row>
+                        <Row>
                         {dataJurnal.map((item, index)=>(
                             <Col key={index} onClick={() => navigate(`/detail-literature/${item?.id}`)}
                             className="col-lg-3"
@@ -92,7 +92,7 @@ const MyCollection = () => {
                             </Col>
                         ))}
 
-                        </Row> */}
+                        </Row>
                         
                         
                     </Col>
