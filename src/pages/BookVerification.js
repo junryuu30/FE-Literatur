@@ -66,8 +66,8 @@ const BookVerification =()=>{
                     <th>User Or Author</th>
                     <th>ISBN</th>
                     <th>Literatur</th>
-                    <th>Action</th>
-                    <th className="d-flex justify-content-center">Username</th>
+                    <th>Status</th>
+                    <th className="d-flex justify-content-center">Action</th>
                     </tr>
                 </thead>
                 <tbody>
